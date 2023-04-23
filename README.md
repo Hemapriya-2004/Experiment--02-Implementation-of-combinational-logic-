@@ -31,7 +31,7 @@ The input and output variables are allocated with letter symbols. The exact trut
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: R.HEMAPRIYA
-RegisterNumber: 212221230043 
+RegisterNumber: 212221230036
 */
 ~~~
 ~~~
